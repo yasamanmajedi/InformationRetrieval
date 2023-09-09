@@ -8,5 +8,5 @@ In the first phase, we were supposed to:
 - Compression (Variable Code, Gamma Code)
 - Correcting the user input Query
 
-The second phase consists of implementing the language model, editing the probability model, candidate generator, and candidate scorer.
-In the third phase, we implemented classification and clustering algo- rithms, designed a crawler, and evaluated articles and ranked authors based on information collected by the crawler.
+The second phase consists of implementing the language model, editing the probability model, candidate generator, and candidate scorer.   
+In the third phase, we implemented classification and clustering algorithms, designed a crawler, and evaluated articles and ranked authors based on information collected by the crawler.
